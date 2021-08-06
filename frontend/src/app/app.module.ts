@@ -37,7 +37,7 @@ import { NavbarComponent } from './navbar/navbar.component';
           {
             id: GoogleLoginProvider.PROVIDER_ID,
             provider: new GoogleLoginProvider(
-              '701680684366-rfa8gdeqe95c87b0mu1e8asv8t4k20bj.apps.googleusercontent.com' // client id
+              '' //Enter your client id
             )
           }
         ]
